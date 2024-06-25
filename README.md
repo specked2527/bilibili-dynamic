@@ -23,9 +23,9 @@ bilibili动态主页文本下载
 
 # 关于
 因为没有找到关于 bilibili动态主页文本下载 的项目只能自己造轮子了 
-不会写代码，这是我东拼西凑做出来的 
-* 目前是能用的 api挂了我也不会修
-
+* 不会写代码，这是我东拼西凑做出来的 
+  * 目前是能用的 api挂了我也不会修
+  
 https://github.com/Haocen2004/BilibiliGetDynamics
 * 这个因为没有cookie功能 现在下载受限不能用
-
+  
