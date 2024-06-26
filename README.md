@@ -11,10 +11,10 @@ bilibili动态主页-文本下载
   * ~~或者直接鼠标右键保存bd.py~~
     
 2用记事本打开编辑bd.py
-* 'Cookie':'把Cookie全选复制粘贴到这里'
-  * # 'Cookie':'把Cookie全选复制粘贴到这里'  https://www.cnblogs.com/luzhuangzhi/p/17441262.html
-* "host_mid": 698149922
-    * # "host_mid": 填写你要下载的up主id  https://space.bilibili.com/698149922/dynamic 就是这个698149922
+* `'Cookie':' '`
+  * #'Cookie':'`把Cookie全选复制粘贴到这里`'  https://www.cnblogs.com/luzhuangzhi/p/17441262.html
+* `"host_mid": 698149922`
+    * #"host_mid": `填写你要下载的up主id`  https://space.bilibili.com/698149922/dynamic 就是这个698149922
 
 3运行
  * 在下载bd.py的文件夹,键盘 shift + 鼠标右键，选择 在此处打开powershell
