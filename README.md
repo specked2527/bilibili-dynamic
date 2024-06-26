@@ -4,6 +4,11 @@ bilibili动态主页-文本下载
 - 必须安装Python 版本≥3.8.2 https://www.python.org/downloads/
 * 并添加环境变量Python
   * 如果你安装Python时忘记勾选Add Python.exe to PATH。 https://blog.csdn.net/l15668952150/article/details/124571667
+* 依赖库  
+    import json  
+    import time  
+    import requests  
+    * 如果报错 尝试输入`pip install requests` 以此类推
 
 # 使用
 1下载
